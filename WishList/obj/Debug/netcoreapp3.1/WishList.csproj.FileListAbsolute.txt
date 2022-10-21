@@ -1,0 +1,10 @@
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\WishList.csproj.AssemblyReference.cache
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\WishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\WishList.AssemblyInfoInputs.cache
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\WishList.AssemblyInfo.cs
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\WishList.csproj.CoreCompileInputs.cache
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\WishList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\WishList.RazorComponent.input.cache
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\RazorDeclaration\Views\Home\Index.razor.g.cs
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\RazorDeclaration\Views\Shared\Error.razor.g.cs
+C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\obj\Debug\netcoreapp3.1\WishList.RazorComponent.output.cache

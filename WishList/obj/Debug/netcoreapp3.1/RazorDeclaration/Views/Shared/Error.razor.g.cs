@@ -19,6 +19,14 @@ namespace WishList.Views.Shared
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 3 "C:\Users\HOBS-DEV\source\repos\AspNetCore-WishList\WishList\Views\Shared\Error.razor"
+       
+    System.Diagnostics.Debug.WriteLine("An error has occurred, Please try again.");
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
